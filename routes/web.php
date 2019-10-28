@@ -23,5 +23,3 @@ Route::get('/', 'clientesController@index');
 Route::resource('clientes', 'clientesController');
 
 
-
-Route::resource('clientes', 'clientesController');
